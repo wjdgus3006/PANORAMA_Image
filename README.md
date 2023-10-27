@@ -27,7 +27,7 @@
 ![](https://github.com/wjdgus3006/PANORAMA_Image/blob/main/input1_2.jpg)
 
 **매칭 결과**
-![](https://github.com/wjdgus3006/PANORAMA_Image/blob/main/matched_features1.jpg)
+![](https://github.com/wjdgus3006/PANORAMA_Image/blob/main/matched_features_1.jpg)
 
 **파노라마 이미지**
 ![](https://github.com/wjdgus3006/PANORAMA_Image/blob/main/stitched_panorama_1.jpg)
