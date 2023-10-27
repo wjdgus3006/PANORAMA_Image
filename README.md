@@ -26,8 +26,18 @@
 ![](https://github.com/wjdgus3006/PANORAMA_Image/blob/main/input1_1.jpg)
 ![](https://github.com/wjdgus3006/PANORAMA_Image/blob/main/input1_2.jpg)
 
-**매칭 결과**
+**매칭 결과1**
 ![](https://github.com/wjdgus3006/PANORAMA_Image/blob/main/matched_features_1.jpg)
 
-**파노라마 이미지**
+**파노라마 이미지1**
 ![](https://github.com/wjdgus3006/PANORAMA_Image/blob/main/stitched_panorama_1.jpg)
+
+**입력 이미지2**
+![](https://github.com/wjdgus3006/PANORAMA_Image/blob/main/input2_1.jpg)
+![](https://github.com/wjdgus3006/PANORAMA_Image/blob/main/input2_2.jpg)
+
+**매칭 결과2**
+![](https://github.com/wjdgus3006/PANORAMA_Image/blob/main/matched_features_2.jpg)
+
+**파노라마 이미지2**
+![](https://github.com/wjdgus3006/PANORAMA_Image/blob/main/stitched_panorama_2.jpg)
